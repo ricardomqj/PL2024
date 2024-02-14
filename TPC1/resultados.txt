@@ -1,0 +1,30 @@
+Lista ordenada alfabeticamente das modalidades desportivas:
+Andebol
+Atletismo
+BTT
+Badminton
+Basquetebol
+Ciclismo
+Dan√ßa
+Equita√ß√£o
+Esgrima
+Futebol
+Karat√©
+Orienta√ß√£o
+Parapente
+Patinagem
+Triatlo
+
+___________________________________
+Percentagens de atletas aptos e n„o aptos para a pr·tica desportiva:
+Percentagens de atletas aptos: 54.0%
+Percentagem de atletas inaptos: 46.0%
+
+___________________________________
+DistribuiÁ„o de atletas por escal„o et·rio:
+[20-24]: 80
+[25-29]: 102
+[30-34]: 104
+[35-39]: 14
+
+___________________________________
