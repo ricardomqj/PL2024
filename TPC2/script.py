@@ -26,7 +26,7 @@ def convert_md_to_html(md_file):
                     line = next(file)
                 html_content += "</ol>\n"
             # Link
-            elif "[" in line and "]" in line and "(" in line and ")" in line :
+            elif "[" in line and "]" in line and "(" in line and ")" in line and not "![" in line:
                 link_text = re.search(r'\[(.*?)\]', line).group(1)
                 link_url = re.search(r'\((.*?)\)', line).group(1)
                 html_content += f'<a href="{link_url}">{link_text}</a>\n'
