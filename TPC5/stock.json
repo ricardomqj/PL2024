@@ -1,0 +1,64 @@
+{
+    "stock": [
+      {
+        "cod": "A1",
+        "nome": "\u00e1gua 0.5L",
+        "quant": 8,
+        "preco": 0.7
+      },
+      {
+        "cod": "A2",
+        "nome": "Cola",
+        "quant": 6,
+        "preco": 1.0
+      },
+      {
+        "cod": "A3",
+        "nome": "Fanta",
+        "quant": 8,
+        "preco": 1.0
+      },
+      {
+        "cod": "A4",
+        "nome": "7-Up",
+        "quant": 5,
+        "preco": 1.0
+      },
+      {
+        "cod": "A5",
+        "nome": "Guaran\u00e1",
+        "quant": 9,
+        "preco": 1.0
+      },
+      {
+        "cod": "A6",
+        "nome": "Sumol",
+        "quant": 7,
+        "preco": 1.0
+      },
+      {
+        "cod": "A7",
+        "nome": "Bolachas",
+        "quant": 1,
+        "preco": 0.6
+      },
+      {
+        "cod": "A8",
+        "nome": "Gomas",
+        "quant": 3,
+        "preco": 1.3
+      },
+      {
+        "cod": "A9",
+        "nome": "Cerveja",
+        "quant": 4,
+        "preco": 1.0
+      },
+      {
+        "cod": "A10",
+        "nome": "Batatas",
+        "quant": 0,
+        "preco": 1.3
+      }
+    ]
+  }
